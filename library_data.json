@@ -1,0 +1,32 @@
+{
+    "books": [
+        {
+            "book_id": "B001",
+            "title": "The Atlas of Forgotten Galaxies",
+            "author": "Sarthak Rajput",
+            "category": "Science Fiction",
+            "is_issued": false
+        },
+        {
+            "book_id": "B002",
+            "title": "The Nebula Code",
+            "author": "Sarthak Rajput",
+            "category": "Science Fiction",
+            "is_issued": false
+        }
+    ],
+    "members": [
+        {
+            "member_id": "M001",
+            "name": "Aarav Sharma",
+            "email": "aarav@example.com",
+            "borrowed_books": []
+        },
+        {
+            "member_id": "M002",
+            "name": "Zara Mehta",
+            "email": "zara@example.com",
+            "borrowed_books": []
+        }
+    ]
+}
