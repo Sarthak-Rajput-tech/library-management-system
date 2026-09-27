@@ -7,7 +7,7 @@ The Library Management System is a console-based Python application that manages
 - Librarians 
 - Students 
 - Small educational libraries
-## High-Level Fatures 
+## High-Level Features 
 - Add and view books 
 - Add and view members
 - Issue and return books 
